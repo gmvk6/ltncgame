@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\shoot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\shoot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Shoot.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\Shoot.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Entity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\Entity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{163BEBC5-ED72-4B4C-B74B-B82691B67242}|gexgexgex\\gexgexgex.vcxproj|solutionrelative:gexgexgex\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +46,96 @@
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\main.cpp",
               "RelativeDocumentMoniker": "gexgexgex\\main.cpp",
-              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\main.cpp",
-              "RelativeToolTip": "gexgexgex\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAALAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\main.cpp*",
+              "RelativeToolTip": "gexgexgex\\main.cpp*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwGAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-23T12:39:15.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Player.hpp",
+              "RelativeDocumentMoniker": "gexgexgex\\Player.hpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Player.hpp",
+              "RelativeToolTip": "gexgexgex\\Player.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:13:09.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\player.cpp",
+              "RelativeDocumentMoniker": "gexgexgex\\player.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\player.cpp",
+              "RelativeToolTip": "gexgexgex\\player.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T06:13:23.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.hpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Entity.hpp",
+              "RelativeDocumentMoniker": "gexgexgex\\Entity.hpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Entity.hpp",
+              "RelativeToolTip": "gexgexgex\\Entity.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T06:28:10.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "entity.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\entity.cpp",
+              "RelativeDocumentMoniker": "gexgexgex\\entity.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\entity.cpp",
+              "RelativeToolTip": "gexgexgex\\entity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T06:28:27.775Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shoot.hpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Shoot.hpp",
+              "RelativeDocumentMoniker": "gexgexgex\\Shoot.hpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\Shoot.hpp",
+              "RelativeToolTip": "gexgexgex\\Shoot.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T07:12:28.182Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shoot.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\shoot.cpp",
+              "RelativeDocumentMoniker": "gexgexgex\\shoot.cpp",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\M\u00E1y t\u00EDnh\\GameProject\\brawlhalla\\gexgexgex\\shoot.cpp",
+              "RelativeToolTip": "gexgexgex\\shoot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T07:19:12.603Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
